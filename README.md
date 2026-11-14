@@ -97,8 +97,13 @@ Cloudflare Pages → **Upload assets** → 上传根目录含 `index.html` 的�
 ```
 fourierlab/
 ├─ index.html   # 整个游乐场
-└─ README.md
+├─ README.md
+└─ LICENSE      # MIT
 ```
+
+### 许可 / License
+
+MIT © 2026 experience1025
 
 ### 来历
 
